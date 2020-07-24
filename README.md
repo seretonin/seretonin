@@ -1,7 +1,6 @@
 ### about me 👤
 
-👩‍🎓 computer systems engineering graduate @ university of auckland
-
+👩‍🎓 computer systems engineering graduate @ university of auckland\
 💼 prototyper @ atlassian
 
 <!--
