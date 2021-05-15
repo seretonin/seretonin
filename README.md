@@ -1,7 +1,7 @@
 ### about me 👤
 
 🎓 computer systems engineering graduate @ university of auckland\
-💼 software engineer @ atlassian
+💼 software engineer @ atlassian\
 🎨 design 🤝 code
 
 <!--
