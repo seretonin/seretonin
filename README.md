@@ -1,8 +1,8 @@
 ### about me 👤
 
-🎓 computer systems engineering graduate @ university of auckland\
-💼 software engineer @ atlassian\
-🎨 design 🤝 code
+🎓  computer systems engineering graduate @ university of auckland\
+💼  software engineer @ atlassian\
+🎨  design 🤝 code
 
 <!--
 **seretonin/seretonin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
