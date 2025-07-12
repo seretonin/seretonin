@@ -1,6 +1,6 @@
 ### 👤 about me 
 
-💼 &nbsp;software engineer @ atlassian ✨ design system\
+💼 &nbsp;software engineer @ atlassian ✨ design system
 
 <!--
 **seretonin/seretonin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
